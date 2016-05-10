@@ -41,7 +41,7 @@
 			<Tool
 				Name="VCCLCompilerTool"
 				Optimization="0"
-				AdditionalIncludeDirectories="&quot;$(ProjectDir)\header&quot;;&quot;$(SolutionDir)Third Party\include\dx&quot;"
+				AdditionalIncludeDirectories="&quot;$(ProjectDir)\header&quot;;&quot;$(SolutionDir)Third Party\include\dx&quot;;&quot;$(SolutionDir)Third Party\include&quot;"
 				PreprocessorDefinitions="_LIB;_DEBUG 1;NOMINMAX"
 				MinimalRebuild="true"
 				BasicRuntimeChecks="3"
